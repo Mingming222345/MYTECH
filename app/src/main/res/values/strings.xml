@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">my재태크</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_screen">Screen</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_main4">MainActivity4</string>
+    <string name="title_activity_piechart">Piechart</string>
+</resources>
